@@ -1,0 +1,42 @@
+.container {
+    background: rgb(73, 167, 73);
+    width: 1500px;
+    height: 200px;
+    margin-left: 450px;
+}
+
+.clear {
+    clear: left;
+}
+
+.photo1 {
+    background: url(gradient1.jpg);
+    background-position: 450px 1300px;
+    width: 450px;
+    height: 1300px;
+    margin-top: -200px;
+    clear: both;
+}
+
+.main {
+    background-color: rgb(68, 200, 165);
+    width: 1500px;
+    height: 1100px;
+    margin-left: 450px;
+    margin-top: -1100px;
+}
+
+.footer {
+    background-color: rgb(157, 69, 182);
+    width: 1200px;
+    height: 180px;
+}
+
+.photo2 {
+    background: url(gradient2.jpg);
+    background-position: center;
+    width: 750px;
+    height: 180px;
+    margin-left: 1200px;
+    margin-top: -180px;
+}
